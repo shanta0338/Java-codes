@@ -1,6 +1,6 @@
 # Java-codes
 
-A personal collection of standalone Java programs written for practice — covering core syntax, arrays, sorting algorithms, dynamic programming, and small object-oriented design exercises. Each file is generally self-contained and can be compiled and run independently.
+A personal collection of standalone Java programs written for practice, covering core syntax, arrays, sorting algorithms, dynamic programming, and small object-oriented design exercises. Each file is generally self-contained and can be compiled and run independently.
 
 ## Contents
 
