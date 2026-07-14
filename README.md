@@ -78,4 +78,4 @@ Some programs (`Merge_Sort.java`, `Matrix.java`, `Re_Knapsack.java`, `Switch.jav
 
 ## Author
 
-Shanta
+Shanta Majumder
